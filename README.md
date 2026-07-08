@@ -12,6 +12,20 @@ El sistema permite automatizar procesos que anteriormente se realizaban de forma
 
 ---
 
+## 🎯 Objetivo del proyecto
+
+Este sistema fue desarrollado para un negocio real con el objetivo de optimizar la administración de ventas, productos e inventario, reduciendo procesos manuales y mejorando la organización del negocio.
+
+---
+
+## ✨ Estado del proyecto
+
+🟢 Proyecto funcional
+
+Actualmente el sistema se encuentra en funcionamiento y continúa recibiendo mejoras y nuevas funcionalidades.
+
+---
+
 ## 🚀 Funcionalidades
 
 - 🔐 Inicio de sesión de usuarios
