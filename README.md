@@ -1,21 +1,28 @@
 # 🍹 POS System
 
-Sistema de punto de venta desarrollado para la administración de negocios de comida y bebidas.
+> Sistema de Punto de Venta (POS) desarrollado con **Java** y **Spring Boot** para la administración de pequeños negocios.
+
+---
 
 ## 📌 Descripción
 
-Aplicación web creada para gestionar ventas, productos, inventario y clientes de un negocio.
+Este proyecto fue desarrollado para un **negocio real**, con el objetivo de facilitar la administración diaria de ventas, productos, inventario y clientes.
 
-El sistema permite controlar las operaciones diarias de manera rápida y organizada.
+El sistema permite automatizar procesos que anteriormente se realizaban de forma manual, mejorando el control y la organización del negocio.
+
+---
 
 ## 🚀 Funcionalidades
 
 - 🔐 Inicio de sesión de usuarios
 - 📦 Gestión de productos
-- 🧾 Registro de ventas
-- 📊 Control de inventario
+- 🛒 Registro de ventas
 - 👥 Gestión de clientes
+- 📊 Control de inventario
+- 🧾 Generación de facturas
 - 📈 Reportes de ventas
+
+---
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -25,19 +32,61 @@ El sistema permite controlar las operaciones diarias de manera rápida y organiz
 - Spring Data JPA
 - Hibernate
 
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
 ### Base de datos
 - MySQL
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
+---
 
-## 📷 Capturas
+## 📷 Capturas del sistema
 
-Próximamente...
+### Inicio de sesión
+
+![Login](screenshots/login.png)
+
+### Panel principal
+
+![Dashboard](screenshots/dashboard.png)
+
+### Gestión de productos
+
+![Productos](screenshots/productos.png)
+
+### Facturas
+
+![Facturas](screenshots/facturas.png)
+
+### Cierre de caja
+
+![Cierre de caja](screenshots/cierredecaja.png)
+
+### Cuenta
+
+![Cuenta](screenshots/cuenta.png)
+
+### Pagos
+
+![Pagos](screenshots/pago.png)
+
+---
+
+## ⚙️ Instalación
+
+1. Clonar el repositorio.
+2. Configurar la base de datos.
+3. Configurar el archivo `application.properties`.
+4. Ejecutar la aplicación.
+
+---
 
 ## 👨‍💻 Autor
 
-Ramsés Baltodano
-Java | Spring Boot | Web Development
+**Ramsés Baltodano**
+
+Backend Developer
+
+Java • Spring Boot • Web Development
